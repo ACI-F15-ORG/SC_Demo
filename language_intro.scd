@@ -312,7 +312,7 @@ while( { /* test function */ false }, {
 Function.help;
 
 // about half way down there is a section called Audio with some stuff that looks
-// like it could answer or question... lo and behold, the first method is play
+// like it could answer our question... lo and behold, the first method is play
 ~deliverance.play;
 
 // the syntax for the method call might look a little weird. that's because they are
@@ -329,7 +329,7 @@ play(~deliverance);
 // hmm, but still no clear way of turning it off...
 
 // that is because there is another subtle complication here - the contents of
-// our ~deliverence object is actually just an block of code
+// our ~deliverance object is actually just an block of code
 
 // remember how when we execute stuff, it returns something? this is the problem
 // here. when we actually call ~deliverance.play, it is creating and returning
@@ -349,7 +349,7 @@ Synth.help;
 // well, not exactly.
 
 // in truth, supercollider allows you to do all of this stuff, but where it really
-// shines is in how you don't have to. i mean to say that we more often work with
+// shines is in how you don't have to. i mean to say that more often we work with
 // equivalent, and more convenient, objects called SynthDefs
 SynthDef.help;
 
@@ -408,8 +408,7 @@ SynthDef("deliverance", {
 ~not_deliverance.free;
 ~possibly_digiorno.free;
 
-// nothing to do now but sit back and wait for the money to fall
-// into our laps.
+// nothing to do now but sit back and wait for the money to fall into our laps.
 
 // or i guess we could see a few more things first...
 
