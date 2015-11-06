@@ -155,7 +155,7 @@ nachos.postln;
 
 // what is super weird about SC, however, is that the language that it is
 // translating your code into is a strangely formatted TCP/UDP packet. the
-// specific API for the implementation is Open Sound Control, or OSC.
+// specification for the implementation is Open Sound Control, or OSC.
 
 // so if all of your sclang code is converted to network packets, then where
 // are they going? the answer is: 'scsynth'. as such, scsynth is a server that
@@ -197,7 +197,7 @@ s.boot;
 // back to the example from before. besides making sound, there is a new syntactic
 // element that we haven't seen yet curly braces, or {}
 
-// and what's more, these are getting a function/selector/operator just like objects.
+// and what's more, these are getting a function/selector/method just like objects.
 // well, that's because they are. in fact, they are very similar to the parentheses
 // that make up Events, but here is the difference:
 
@@ -312,7 +312,7 @@ while( { /* test function */ false }, {
 Function.help;
 
 // about half way down there is a section called Audio with some stuff that looks
-// like it could answer or question... lo and behold, the first method is play
+// like it could answer our question... lo and behold, the first method is play
 ~deliverance.play;
 
 // the syntax for the method call might look a little weird. that's because they are
@@ -329,7 +329,7 @@ play(~deliverance);
 // hmm, but still no clear way of turning it off...
 
 // that is because there is another subtle complication here - the contents of
-// our ~deliverence object is actually just an block of code
+// our ~deliverance object is actually just an block of code
 
 // remember how when we execute stuff, it returns something? this is the problem
 // here. when we actually call ~deliverance.play, it is creating and returning
@@ -349,7 +349,7 @@ Synth.help;
 // well, not exactly.
 
 // in truth, supercollider allows you to do all of this stuff, but where it really
-// shines is in how you don't have to. i mean to say that we more often work with
+// shines is in how you don't have to. i mean to say that more often we work with
 // equivalent, and more convenient, objects called SynthDefs
 SynthDef.help;
 
@@ -408,8 +408,7 @@ SynthDef("deliverance", {
 ~not_deliverance.free;
 ~possibly_digiorno.free;
 
-// nothing to do now but sit back and wait for the money to fall
-// into our laps.
+// nothing to do now but sit back and wait for the money to fall into our laps.
 
 // or i guess we could see a few more things first...
 
@@ -673,7 +672,7 @@ SynthDef(\simpleSineSynth, { |out = 0, freq = 440|
 
 // from here, you can continue by looking up the tutorials that ship with SC by
 // finding them in the help browser under the "Browse" tab. alternately you can
-// consult the great all seeing Google. and if you really get into, there is an
+// consult the great all seeing Google. and if you really get into SC, there is an
 // excellent Supercollider book that gets into some pretty hardcore stuff - it
 // is a really great resource.
 
