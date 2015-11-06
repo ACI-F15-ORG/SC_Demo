@@ -155,7 +155,7 @@ nachos.postln;
 
 // what is super weird about SC, however, is that the language that it is
 // translating your code into is a strangely formatted TCP/UDP packet. the
-// specific API for the implementation is Open Sound Control, or OSC.
+// specification for the implementation is Open Sound Control, or OSC.
 
 // so if all of your sclang code is converted to network packets, then where
 // are they going? the answer is: 'scsynth'. as such, scsynth is a server that
