@@ -672,7 +672,7 @@ SynthDef(\simpleSineSynth, { |out = 0, freq = 440|
 
 // from here, you can continue by looking up the tutorials that ship with SC by
 // finding them in the help browser under the "Browse" tab. alternately you can
-// consult the great all seeing Google. and if you really get into, there is an
+// consult the great all seeing Google. and if you really get into SC, there is an
 // excellent Supercollider book that gets into some pretty hardcore stuff - it
 // is a really great resource.
 
