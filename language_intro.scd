@@ -197,7 +197,7 @@ s.boot;
 // back to the example from before. besides making sound, there is a new syntactic
 // element that we haven't seen yet curly braces, or {}
 
-// and what's more, these are getting a function/selector/operator just like objects.
+// and what's more, these are getting a function/selector/method just like objects.
 // well, that's because they are. in fact, they are very similar to the parentheses
 // that make up Events, but here is the difference:
 
