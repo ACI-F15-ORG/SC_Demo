@@ -12,6 +12,11 @@ These vary from higher to lower level, but all of them require some facility wit
 * [The Computer Music Tutorial](https://mitpress.mit.edu/books/computer-music-tutorial) (abstracted versions of algorithms)
 * [Real Sound Synthesis for Interactive Applications](https://www.cs.princeton.edu/~prc/AKPetersBook.htm) (focuses on using the C++ Synthesis Toolkit, a powerful low level synthesis library)
 
+## Stuff I've done with SC:
+* [Parallel](https://vimeo.com/122155272) - All of the audio *NOT* made by phones is made with SC, which also powered the network infrastructure allowing the phones to talk to each other.
+* [Algorithmic Menagerie](https://vimeo.com/97582678) - All sound is procedurally generated from parameters of the visual creatures.
+* [Charivari](https://vimeo.com/82205268) - A game of life inspired audio installation
+
 ## Links from the Net (it's truly vast and infinite)
 * [ixiLang - Thor Magnusson](https://github.com/thormagnusson/ixilang)
 * [Threnoscope - Thor Magnusson](https://vimeo.com/63335988)
