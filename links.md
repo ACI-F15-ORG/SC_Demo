@@ -12,7 +12,7 @@ These vary from higher to lower level, but all of them require some facility wit
 * [The Computer Music Tutorial](https://mitpress.mit.edu/books/computer-music-tutorial) (abstracted versions of algorithms)
 * [Real Sound Synthesis for Interactive Applications](https://www.cs.princeton.edu/~prc/AKPetersBook.htm) (focuses on using the C++ Synthesis Toolkit, a powerful low level synthesis library)
 
-## Links from the Net (its truly vast and infinite)
+## Links from the Net (it's truly vast and infinite)
 * [ixiLang - Thor Magnusson](https://github.com/thormagnusson/ixilang)
 * [Threnoscope - Thor Magnusson](https://vimeo.com/63335988)
 * [Algorave and SuperCollider mini-languages board post](http://lurk.org/groups/algorave/messages/topic/7gD1a3yyY1iSxdfUIv35vL)
